@@ -1,0 +1,2 @@
+SELECT * FROM Enrolments WHERE CourseName  BETWEEN 'DATA STRUCTURE' AND 'MATHS';
+
